@@ -1,0 +1,17 @@
+/* App.css */
+.app-container {
+  width: 500px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+.tag-list {
+  margin-left: 10px;
+}
+
+.tag {
+  background-color: #eee;
+  padding: 5px 10px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
